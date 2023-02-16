@@ -1,0 +1,33 @@
+/* .glow{
+    color: rgb(237,237,148);
+    text-shadow: 0 0 7px #fff,
+                 0 0 12px #fff,
+                 /* 0 0 20px #fff, */
+                 /* 0 0 30px #ffd,
+                 0 0 50px rgb(257,221,6), */
+                 /* 0 0 70px rgb(257,221,6), */
+                 /* 0 0 90px rgb(257,221,6), */
+                 /* 0 0 110px rgb(257,221,6), */
+                 /* 0 0 130px rgb(257,221,6), */
+                 /* 0 0 150px rgb(257,221,6); */
+                 
+/* } */ 
+/* 
+body{
+    text-align: center;
+    font-family:cursive;
+    font-size: 25px;
+    background-color: black;
+} */
+.a{
+    margin: 20px;
+    transform: skewX(15deg);
+    transition:  5s;
+    
+}
+.b{
+    margin: 350px;
+    transform: rotate(20deg);
+    transition:  3s;
+    
+}
