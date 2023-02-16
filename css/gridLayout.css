@@ -1,0 +1,23 @@
+body{
+    margin: 20px;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(3,150px);
+    grid-auto-rows: minmax(150px,auto);
+    /* gap: 10px; */
+    
+    background-color: aliceblue;
+    width: 500px;
+}
+.container .box{
+    color: aliceblue;
+    background-color: brown;
+    /* text-align: center; */
+    align-items: baseline;
+    border-radius: 10px;
+    font-size: 150%;
+    padding: 15px;
+    margin: 10px;
+
+}
